@@ -1,0 +1,86 @@
+body {
+	background-color: <img src=”http://www.google.com/search?q=orca+gif&rlz=1C1CHBF_en-GBAU937AU939&tbm=isch&source=iu&ictx=1&fir=gVAcr705cmdToM%252CVFGIzVPVWbnX8M%252C_%253BiSs-YaoJc7hv-M%252CrX78ZLFIHaT89M%252C_%253BXxXo9wO9CCq9dM%252CNdzroIwLFkBFNM%252C_%253BDaHlZG9OPKS6LM%252CX35VGwk_ftN8iM%252C_%253BtwjdUS3jBQpDsM%252Cfnl2M829yAwM-M%252C_%253BZLRwKAUGeFFoyM%252CkTiY3ZU_wgJf2M%252C_%253BY8V4hiVzutGF4M%252CbltNQ-cKfNG5wM%252C_%253B3rNbnEAWEovWsM%252CeW2pfJhzk43a7M%252C_%253BMqAWQNMCcmGEgM%252CceDWV1U_urlJMM%252C_%253BhhKUlcRMi85cBM%252Cc4fNUtSpd_8cgM%252C_%253BDUwakqVbyEB7xM%252CTcnld-J83ASXxM%252C_%253BoP3QZbf1cjm0VM%252CdWDKCzOZUd3cLM%252C_&vet=1&usg=AI4_-kT3XV8COWTPWyf7UJ7yrWxJ5pFr5A&sa=X&ved=2ahUKEwjMye-yrMT0AhXEr1YBHSw7B1cQ9QF6BAgcEAE#imgrc=twjdUS3jBQpDsM /web design/file.extension” /> 
+	font-family: Helvetica, Arial, sans-serif;
+
+	
+}
+
+a {
+	text-decoration: none;
+	color: black;
+	padding: 20px;
+}
+	
+h1 {
+	margin: 0;
+}
+
+h2, h3 {
+	margin: 0;
+	color: navy;
+}
+
+#container {
+	background-color: white;
+	width: 1000px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#header {
+	background-color: teal;
+	color: white;
+	text-align: center;
+	padding: 10px;
+}
+
+#content {
+	padding: 10px;
+}
+
+#nav {
+	width: 180px;
+	float: left;
+}
+
+ul {
+  	list-style-type: none;
+  	margin: 0;
+  	padding: 10px;
+}
+
+#main {
+	width: 800px;
+	float: right;
+}
+
+#footer {
+	clear: both;
+	background-color: #006400;
+	color: white;
+	text-align: center;
+}
+
+a:link {
+  	color: green;
+  	background-color: transparent;
+  	text-decoration: none;
+}
+
+a:visited {
+  	color: purple;
+  	background-color: transparent;
+  	text-decoration: none;
+}
+
+a:hover {
+  	color: navy;
+  	background-color: transparent;
+  	text-decoration: underline;
+}
+
+a:active {
+  	color: green;
+  	background-color: transparent;
+  	text-decoration: underline;
+}

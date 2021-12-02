@@ -1,7 +1,7 @@
 <html>
 
    <head>
-      <link href="favicon.ico" rel="shortcut icon" type="image/x-icon" />
+       <link href="favicon.ico" rel="shortcut icon" type="image/x-icon" />
        <title> The danger with killer whales </title>
 
        <link rel="stylesheet" type="text/css" href="style2.css" />
@@ -27,12 +27,21 @@
                                          <u1>
 
                                             <a href="index">Home</a>
-                                            <br>
-                                            <a href="Lifespan">Lifespan</a>					
-                                            <br>
-                                            <a href="Physical-appearance"> Physical Appearance</a>
-                                            <br>
-                                            <a href="Danger-with-killer-whales">Is there a danger with "killer whales"?</a>
+                                          <br>
+                                          <p>
+                                                 
+                                          </p>
+                                          <a href="Lifespan">Lifespan</a>					
+                                          <br>
+                                          <p>
+                                                 
+                                          </p>
+                                          <a href="Physical-appearance"> Physical Appearance</a>
+                                          <br>
+                                          <p>
+                                                 
+                                          </p>
+                                          <a href="Danger-with-killer-whales">Is there a danger with "killer whales"?</a>
 
                                          </u1>
 

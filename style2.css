@@ -1,5 +1,5 @@
 body {
-	background-color: midnightblue;
+	background-color: rgb(32, 87, 124);
 	font-family: Helvetica, Arial, sans-serif;
 
 	
@@ -28,7 +28,7 @@ h2, h3 {
 }
 
 #header {
-	background-color: teal;
+	background-color: rgb(39, 82, 57);
 	color: white;
 	text-align: center;
 	padding: 10px;
@@ -56,7 +56,7 @@ ul {
 
 #footer {
 	clear: both;
-	background-color: #006400;
+	background-color: #6f976f;
 	color: white;
 	text-align: center;
 }

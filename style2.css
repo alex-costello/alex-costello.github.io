@@ -1,5 +1,5 @@
 body {
-	background-color: rgb(32, 87, 124);
+	background-color: rgb(20, 44, 59);
 	font-family: Helvetica, Arial, sans-serif;
 
 	
@@ -17,7 +17,7 @@ h1 {
 
 h2, h3 {
 	margin: 0;
-	color: navy;
+	color: rgb(16, 109, 55);
 }
 
 #container {
@@ -28,7 +28,7 @@ h2, h3 {
 }
 
 #header {
-	background-color: rgb(39, 82, 57);
+	background-color: rgb(33, 65, 78);
 	color: white;
 	text-align: center;
 	padding: 10px;
